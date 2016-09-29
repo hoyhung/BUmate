@@ -3,19 +3,19 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_course_info"
             android:icon="@drawable/ic_menu_info"
             android:title="Course Information" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_second_hand"
             android:icon="@drawable/ic_menu_hand"
             android:title="Second Hand Trade" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_facebook_secrets"
             android:icon="@drawable/ic_menu_secret"
             android:title="Facebook Secrets" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_form_group"
             android:icon="@drawable/ic_menu_group"
             android:title="Form Group" />
     </group>
