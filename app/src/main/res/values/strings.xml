@@ -5,8 +5,4 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-    <string name="title_activity_second_hand">second_hand</string>
-    <string name="title_activity_facebook_secrets">facebook_secrets</string>
-    <string name="title_activity_form_group">form_group</string>
-    <string name="title_activity_course_info">course_info</string>
 </resources>
