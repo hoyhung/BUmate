@@ -18,6 +18,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".second_hand"
+            android:label="@string/title_activity_second_hand"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".facebook_secrets"
+            android:label="@string/title_activity_facebook_secrets"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".form_group"
+            android:label="@string/title_activity_form_group"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".course_info"
+            android:label="@string/title_activity_course_info"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

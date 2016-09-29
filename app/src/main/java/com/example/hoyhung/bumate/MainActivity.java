@@ -1,5 +1,6 @@
 package com.example.hoyhung.bumate;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -80,14 +81,22 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_camera) {
-            // Handle the camera action
-        } else if (id == R.id.nav_gallery) {
-
-        } else if (id == R.id.nav_slideshow) {
-
-        } else if (id == R.id.nav_manage) {
-
+        if (id == R.id.nav_course_info) {
+            Intent intent = new Intent();
+            intent.setClass(MainActivity.this, course_info.class);
+            startActivity(intent);
+        } else if (id == R.id.nav_second_hand) {
+            Intent intent = new Intent();
+            intent.setClass(MainActivity.this, second_hand.class);
+            startActivity(intent);
+        } else if (id == R.id.nav_facebook_secrets) {
+            Intent intent = new Intent();
+            intent.setClass(MainActivity.this, facebook_secrets.class);
+            startActivity(intent);
+        } else if (id == R.id.nav_form_group) {
+            Intent intent = new Intent();
+            intent.setClass(MainActivity.this, form_group.class);
+            startActivity(intent);
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
