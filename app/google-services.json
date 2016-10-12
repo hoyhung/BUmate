@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "840854508853",
+    "firebase_url": "https://bumate-777ff.firebaseio.com",
+    "project_id": "bumate-777ff",
+    "storage_bucket": "bumate-777ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840854508853:android:7459f98c7696d4dc",
+        "android_client_info": {
+          "package_name": "com.example.hoyhung.bumate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840854508853-l5u2rdmsvm5rengbcf8tf5t1r5n3ugkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOfU2td3AKEKVbyCr15I0DoI31P0-IXc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
