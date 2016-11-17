@@ -4,8 +4,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
+import android.util.Log;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -16,30 +17,16 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    course_info courseFragment = new course_info();
-    second_hand secondHandFragment = new second_hand();
-    facebook_secrets secretsFragment = new facebook_secrets();
-    form_group groupFragment = new form_group();
-    android.app.FragmentManager mFragementMgr = getFragmentManager();
-    //android.app.FragmentTransaction ft = mFragementMgr.beginTransaction();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -49,6 +36,10 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+        MainFragment mainFragment = new MainFragment();
+        getSupportFragmentManager().beginTransaction().add(R.id.flContent, mainFragment).commit();
+
     }
 
     @Override
@@ -76,14 +67,8 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_login){
-            Intent intent = new Intent();
-            intent.setClass(MainActivity.this, LoginActivity.class);
-            startActivity(intent);
-        } else if (id == R.id.action_settings) {
-            Intent intent = new Intent();
-            intent.setClass(MainActivity.this, SettingsActivity.class);
-            startActivity(intent);
+        if (id == R.id.action_settings) {
+            return true;
         }
 
         return super.onOptionsItemSelected(item);
@@ -95,26 +80,48 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.nav_course_info) {
-            android.app.FragmentTransaction ft = mFragementMgr.beginTransaction();
-            ft.replace(R.id.content_main, courseFragment);
-            ft.commit();
-        } else if (id == R.id.nav_second_hand) {
-            android.app.FragmentTransaction ft = mFragementMgr.beginTransaction();
-            ft.replace(R.id.content_main, secondHandFragment);
-            ft.commit();
-        } else if (id == R.id.nav_facebook_secrets) {
-            android.app.FragmentTransaction ft = mFragementMgr.beginTransaction();
-            ft.replace(R.id.content_main, secretsFragment);
-            ft.commit();
-        } else if (id == R.id.nav_form_group) {
-            android.app.FragmentTransaction ft = mFragementMgr.beginTransaction();
-            ft.replace(R.id.content_main, groupFragment);
-            ft.commit();
+        Fragment fragment = null;
+        Class fragmentClass = null;
+
+        switch (id) {
+            case R.id.nav_course_search:
+                fragmentClass = CourseInfoSearch.class;
+                setTitle("Course Search");
+                break;
+            case R.id.nav_course_view:
+                fragmentClass = CourseInfoView.class;
+                setTitle("Course Information");
+                break;
+            case R.id.nav_course_stat:
+                fragmentClass = CourseInfoStat.class;
+                setTitle("Statistics");
+                break;
+            case R.id.nav_course_tmp:
+                fragmentClass = CourseInfoComment.class;
+                setTitle("Comment");
+                break;
+        }
+
+        try{
+            fragment = (Fragment) fragmentClass.newInstance();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        if(fragmentClass != null){
+            // Insert the fragment by replacing any existing fragment
+            FragmentManager fragmentManager = getSupportFragmentManager();
+            fragmentManager.beginTransaction().replace(R.id.flContent, fragment).commit();
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
     }
+
+    public void login(View view){
+        Log.i("DIE","HI");
+    }
+
+
 }

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659826448960",
+    "firebase_url": "https://bumate-286c6.firebaseio.com",
+    "project_id": "bumate-286c6",
+    "storage_bucket": "bumate-286c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659826448960:android:7459f98c7696d4dc",
+        "android_client_info": {
+          "package_name": "com.example.hoyhung.bumate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659826448960-ar6ihq2i3ie3bbu0o1vp7avrav6oe8qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hoyhung.bumate",
+            "certificate_hash": "AD876EE4D6DD48BCCD6C9514FD80FD7AA1C7E7E9"
+          }
+        },
+        {
+          "client_id": "659826448960-ggp64ns2dcjj7l6gpkjjjfvj67pii5vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3j2XwsnYItV9QATS-Jsb2_5XE5MX9LY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659826448960-ggp64ns2dcjj7l6gpkjjjfvj67pii5vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

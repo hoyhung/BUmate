@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.hoyhung.bumate.VerticalScrollview
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="1">
+
+    <TextView
+        android:text="Semester"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/semtextView"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+    <Spinner
+        android:id="@+id/sem"
+        android:layout_height="wrap_content"
+        android:prompt="@string/blank"
+        android:layout_width="fill_parent"
+        android:entries="@array/semester"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.05">
+    </Spinner>
+
+    <TextView
+        android:text="Category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+
+    <Spinner
+        android:id="@+id/coursecategorycm"
+        android:layout_height="wrap_content"
+        android:prompt="@string/blank"
+        android:layout_width="fill_parent"
+        android:entries="@array/coursecategory"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.05">
+    </Spinner>
+
+    <TextView
+        android:text="Course Code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+
+    <Spinner
+        android:id="@+id/coursecodecm"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:entries="@array/universityEng"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.05">
+    </Spinner>
+
+    <TextView
+        android:text="Teacher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/teacher"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <TextView
+        android:text="Grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+    <Spinner
+        android:id="@+id/grade"
+        android:layout_height="wrap_content"
+        android:prompt="@string/blank"
+        android:layout_width="fill_parent"
+        android:entries="@array/grade"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.05">
+    </Spinner>
+
+    <TextView
+        android:text="Workload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+    <Spinner
+        android:id="@+id/workload"
+        android:layout_height="wrap_content"
+        android:prompt="@string/blank"
+        android:layout_width="fill_parent"
+        android:entries="@array/workload"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.05">
+    </Spinner>
+
+    <TextView
+        android:text="Comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_weight="0.03"
+        android:gravity="center_vertical" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/grade1"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:inputType="textMultiLine|textCapSentences"
+        android:ems="10"
+        android:enabled="true"
+        android:minLines="6"
+        android:maxLines="6"
+        android:isScrollContainer="true"
+        android:gravity="top"
+        android:padding="10dp"
+        android:background="@drawable/back"/>
+
+    <Button
+        android:text="Submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:id="@+id/button2"
+        android:onClick="submitButton"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+</LinearLayout>
+</com.example.hoyhung.bumate.VerticalScrollview>

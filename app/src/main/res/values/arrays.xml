@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coursecategory">
+        <item>@string/universityEng</item>
+        <item>@string/universityChi</item>
+        <item>@string/PS</item>
+        <item>@string/IT</item>
+        <item>@string/NU</item>
+        <item>@string/PE</item>
+        <item>@string/HC</item>
+        <item>@string/VM</item>
+        <item>@string/GDAR</item>
+        <item>@string/GDBU</item>
+        <item>@string/GDCV</item>
+        <item>@string/GDSC</item>
+        <item>@string/GDSS</item>
+        <item>@string/Interdisciplinary</item>
+    </string-array>
+
+    <string-array name="grade">
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D</item>
+        <item>Fail</item>
+        <item>Dropped</item>
+    </string-array>
+
+    <string-array name="workload">
+        <item>Very light</item>
+        <item>Light</item>
+        <item>Okay</item>
+        <item>Heavy</item>
+        <item>Very heavy</item>
+    </string-array>
+
+    <string-array name="universityEng">
+        <item>universityEng</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="universityChi">
+        <item>University Chinese</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="PS">
+        <item>PS</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="IT">
+        <item>IT</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="NU">
+        <item>NU</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="PE">
+        <item>PE</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="HC">
+        <item>HC</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="VM">
+        <item>VM</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="GDAR">
+        <item>GDAR</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="GDBU">
+        <item>GDBU</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="GDCV">
+        <item>Title1</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="GDSC">
+        <item>GDSC</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="GDSS">
+        <item>GDSS</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="Interdisciplinary">
+        <item>Interdisciplinary</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>2016/17 sem1</item>
+    </string-array>
+</resources>
