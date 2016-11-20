@@ -62,6 +62,7 @@
     <string name="GDSC">Science / Chinese Medicine (GDSC)</string>
     <string name="GDSS">Social Sciences (GDSS)</string>
     <string name="Interdisciplinary">	Interdisciplinary GE Courses</string>
+    <string name="title_activity_display_comment">DisplayCommentActivity</string>
 
 
 </resources>

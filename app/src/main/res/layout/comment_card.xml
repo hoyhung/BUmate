@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cv"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp">
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+        <TableRow>
+            <TextView
+                android:text="Teacher"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/teachertext"
+                android:gravity="center_vertical"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:id="@+id/teacher"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView
+                android:text="Workload"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/workloadtext"
+                android:gravity="center_vertical"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp" />
+
+            <TextView
+                android:id="@+id/workload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Grade"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/gradetext"
+                android:gravity="center_vertical"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:id="@+id/grade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:text="Comment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/commenttext"
+                android:gravity="center_vertical"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+
+            <TextView
+                android:id="@+id/comment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="3dip"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"/>
+        </TableRow>
+    </TableLayout>
+
+
+
+</android.support.v7.widget.CardView>

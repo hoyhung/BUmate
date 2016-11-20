@@ -86,11 +86,11 @@ public class MainActivity extends AppCompatActivity
         switch (id) {
             case R.id.nav_course_search:
                 fragmentClass = CourseInfoSearch.class;
-                setTitle("Course Search");
+                setTitle("Comment Search");
                 break;
             case R.id.nav_course_view:
                 fragmentClass = CourseInfoView.class;
-                setTitle("Course Information");
+                setTitle("About");
                 break;
             case R.id.nav_course_stat:
                 fragmentClass = CourseInfoStat.class;
@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity
                 break;
             case R.id.nav_course_tmp:
                 fragmentClass = CourseInfoComment.class;
-                setTitle("Comment");
+                setTitle("Write Comment");
                 break;
         }
 
@@ -121,6 +121,7 @@ public class MainActivity extends AppCompatActivity
 
     public void login(View view){
         Log.i("DIE","HI");
+
     }
 
 

@@ -5,19 +5,19 @@
         <item
             android:id="@+id/nav_course_search"
             android:icon="@mipmap/search"
-            android:title="Course Search" />
-        <item
-            android:id="@+id/nav_course_view"
-            android:icon="@mipmap/ic_menu_info"
-            android:title="Course Information" />
+            android:title="Comment Search" />
         <item
             android:id="@+id/nav_course_tmp"
             android:icon="@mipmap/comment"
-            android:title="Comment" />
+            android:title="Write Comment" />
         <item
             android:id="@+id/nav_course_stat"
             android:icon="@mipmap/stat"
             android:title="Statistics" />
+        <item
+            android:id="@+id/nav_course_view"
+            android:icon="@mipmap/ic_menu_info"
+            android:title="About " />
     </group>
 
 </menu>

@@ -1,15 +1,88 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:id="@+id/mainfragment"
-    tools:context="com.example.hoyhung.bumate.MainFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:stretchColumns="1"
+android:id="@+id/mainfragment">
+<TableRow
+    android:layout_width="fill_parent"
+    android:minHeight="200px"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp">
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/read"
+        android:padding="3dip"
+        />
     <TextView
-        android:id="@+id/top"
+        android:text="Read Reviews"
+        android:minHeight="200px"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello_blank_fragment" />
+        android:id="@+id/read"
+        android:gravity="center_vertical"
+        android:padding="3dip"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
 
-</RelativeLayout>
+</TableRow>
+
+<TableRow
+    android:layout_width="fill_parent"
+    android:minHeight="200px"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp">
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/write"
+        android:padding="3dip"
+        />
+
+    <TextView
+        android:text="Give Feedback"
+        android:id="@+id/feedback"
+        android:minHeight="200px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:textSize="20dp"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+</TableRow>
+
+<TableRow
+    android:layout_width="fill_parent"
+    android:minHeight="200px"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="30dp">
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/select"
+        android:padding="3dip"
+        />
+
+    <TextView
+        android:text="Select suitable course"
+        android:id="@+id/select"
+        android:minHeight="200px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:textSize="20dp"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+</TableRow>
+
+</TableLayout>
