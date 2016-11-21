@@ -178,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="283ca81ce4234dbeaf65fe677a3eaafaee9ffca6">
+        sha1="dcdeb9ba9651b4e21fbda182eb702315effca164">
         <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\instant-run_40ee88dfcf2c409b6f66878a5fff23aff3978b43.jar" />
     </item>
     <item
@@ -304,7 +304,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="197b227ae6f1724bbbba33bae4c4afe0e61194bf">
+        sha1="5cab3249c51dbb270edf404a402f27819c290e01">
         <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c0455edd17374ba4ffcbec2890748c44f273b813.jar" />
     </item>
     <item

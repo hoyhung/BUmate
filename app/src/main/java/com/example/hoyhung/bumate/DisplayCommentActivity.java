@@ -48,7 +48,7 @@ public class DisplayCommentActivity extends AppCompatActivity {
         String coursecode = intent.getStringExtra("coursecode");
         String sem = intent.getStringExtra("sem");
 
-        setTitle(coursecode+" Comment");
+        setTitle(coursecode);
 
         Log.i("coursecategory", coursecategory);
         Log.i("coursecode", coursecode);
