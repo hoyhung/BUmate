@@ -45,6 +45,9 @@ public class MainActivity extends AppCompatActivity
         MainFragment mainFragment = new MainFragment();
         getSupportFragmentManager().beginTransaction().add(R.id.flContent, mainFragment).commit();
 
+        getAllCommentFromDB sim = new getAllCommentFromDB();
+        sim.startRunning();
+
         setupUI(findViewById(R.id.drawer_layout));
     }
 

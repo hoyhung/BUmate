@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hoyhung.bumate.CourseInfoStat">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:text="Most Commented Course"
+        android:minHeight="200px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/read"
+        android:gravity="center_vertical"
+        android:padding="3dip"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:paddingTop="?attr/actionBarSize" />
+    <!--TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Most Commented" />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Best Grade" />
+        </TableRow>
+    </TableLayout-->
+
+
+</RelativeLayout>

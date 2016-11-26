@@ -3,489 +3,237 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_cf404520515ee357c6e0fba048d3f06e851a6ab1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c73a5e17059662a15d8b88730fc8f281ba3ce9a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e901191b5f1b8502e620ac6619a576759a3e5b6f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d1a82912968267833a225c43acc014ca95547f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_57ae3a129d3135b93b3438fcadcde68b0a5a0dc3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_7028aec68bd6936b17813c95bca57300fc6dd30e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_42474d511bf153f6ccfa7e0a4cd811ae7b1c8cc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_6f4f513b94f1779d92697ee443b494c4f39d0a04.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_af5f2b6ee18c2fb3b9587ccaef1d327ae662ecab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4ed81f45c3c35b84df84ec55eedf11354e78748c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_0369eca5683e3bee2e0db0e2de43b76ca75f35e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6c2bf1e19a73a34d119098cda61cc09579b9ccdc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_da6dfabac7dc6679c5b466d43075a86c01078acc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_284502c979f1e4118bed0d855b6193a0efc6ec94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_cb674865bc3ef004a5e578e232e7c3fddfe161a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1e8f5e4741ee24195cc6a537d5d0964c3dcd49bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_77acc94a5f67c1f8af7513483f301a64ee59a92b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eeb5794420e602e47c0f9710e2701d04d2f9b8ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7341abed0f54bcf3e5e2bb3b6f3eb67eab979c71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="dcdeb9ba9651b4e21fbda182eb702315effca164">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\instant-run_40ee88dfcf2c409b6f66878a5fff23aff3978b43.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6db1d343287aa09953122a256a885af0f6005d3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_da6dfabac7dc6679c5b466d43075a86c01078acc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d1a82912968267833a225c43acc014ca95547f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_b14a3f41e2353394fbf3e816d4f49a92fc544265.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_c383a8dce93756ded1813d349d0a9f469eb349e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_24d14cdc68ee6e94e80359a92ec645c20e336ad6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_a080228cedcbf702ff434e0d936505ccc5190186.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b2ed1ab34facec14dad2ca0fbf9601f7f318c6c0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_0369eca5683e3bee2e0db0e2de43b76ca75f35e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac8365c87591065db07f7bac8551504504832cd4">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_7028aec68bd6936b17813c95bca57300fc6dd30e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_cf404520515ee357c6e0fba048d3f06e851a6ab1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c73a5e17059662a15d8b88730fc8f281ba3ce9a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_57ae3a129d3135b93b3438fcadcde68b0a5a0dc3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5cab3249c51dbb270edf404a402f27819c290e01">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c0455edd17374ba4ffcbec2890748c44f273b813.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6c2bf1e19a73a34d119098cda61cc09579b9ccdc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e901191b5f1b8502e620ac6619a576759a3e5b6f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_6f4f513b94f1779d92697ee443b494c4f39d0a04.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_284502c979f1e4118bed0d855b6193a0efc6ec94.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_af5f2b6ee18c2fb3b9587ccaef1d327ae662ecab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_9da8c4cbc24faf715127ca8ac81af8f056f49981.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_42474d511bf153f6ccfa7e0a4cd811ae7b1c8cc2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_1e8f5e4741ee24195cc6a537d5d0964c3dcd49bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4a36600281a648769411ef642c331851732bf29e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_cb674865bc3ef004a5e578e232e7c3fddfe161a1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_24d14cdc68ee6e94e80359a92ec645c20e336ad6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_b2ed1ab34facec14dad2ca0fbf9601f7f318c6c0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6db1d343287aa09953122a256a885af0f6005d3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_c383a8dce93756ded1813d349d0a9f469eb349e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7341abed0f54bcf3e5e2bb3b6f3eb67eab979c71.jar" />
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d5efa170da9e4143228b87112e6d735d49a3516f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_9da8c4cbc24faf715127ca8ac81af8f056f49981.jar" />
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_1889445556ff92dac0b038d212a94d4e763b64c9.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0b45f3914457ff70856460b07d361e37574c36b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_215be2ecfcbdb0cbedee857beccfe0df0530bc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8158849f0edd3de2c7137d6c6c8ef121b02f5ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_effb2b4f5e7f10efe37b7f932eb5044ad56bd900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_a9929e0a7e5c5277f687a46ec221e7a59df8ace3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_4b0970698583877f9f42488c2eeb931325b97947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_c9870741f958198c123eea668c9b47e587925e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2c64e3beff2a683373441b5ec53356075af92c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_1aea9d61a9fac7b2a96c63bd075300eb072b2284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_920dd3e4404f3a74ec4531a82277e367ed9362af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_cd4ca6730d03ea764fd4c51a923802317ca2d9d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_a7896966d90e0e58bf2b6854ade33fd62e2100a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_efa3a8ccc67289e276c478a08b9256e6689a9ba5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_721e7aa6e8290bb4034a841e4ae8bd874fd5b885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c82670cc24a5b502dedc7233b43ceb5bdfee91e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_77acc94a5f67c1f8af7513483f301a64ee59a92b.jar" />
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_f2de02c68928d768678da497738e2e853137d9a1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_a080228cedcbf702ff434e0d936505ccc5190186.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_6540c22ef34684c3f21b262add46d5722dfb8f46.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4ed81f45c3c35b84df84ec55eedf11354e78748c.jar" />
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_1f24f36de02781f474ba40535bfc98254df0f326.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_c4760108f6b2d8d3e8e80fde3d9f13ff1995d00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ba5704f3fb4c886710d0c0befb74f129c07ee610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_63f4409832f16af6f526a03046cb9681c23c50b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_ae5b4d8a3979ae1f229f4b0137b6b9f8b21d4d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_011f273ee0d08a5fd6e2734cb5413cd08f2ff9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eeb5794420e602e47c0f9710e2701d04d2f9b8ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
-        <dex dex="C:\Users\hoyhung\Desktop\BUmate\BUmate\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_b14a3f41e2353394fbf3e816d4f49a92fc544265.jar" />
+        <dex dex="C:\Users\Charlatte\Desktop\BUmate-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_204354f4afd59628666fec53c16a08dfe9dddb46.jar" />
     </item>
 
 </items>

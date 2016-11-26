@@ -10,6 +10,8 @@ public class Comment {
     public String grade;
     public String workload;
     public String comment;
+    public String code;
+    public String coursetitle;
 
     public Comment(){}
 

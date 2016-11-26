@@ -35,7 +35,6 @@ public class MainFragment extends Fragment  {
 
         final View rootView = inflater.inflate(R.layout.fragment_main, container, false);
         Button button1 = (Button) rootView.findViewById(R.id.button2);
-
         return inflater.inflate(R.layout.fragment_main, container, false);
     }
 
