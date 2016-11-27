@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity
                 setTitle("About");
                 break;
             case R.id.nav_course_stat:
-                fragmentClass = CourseInfoStat.class;
+                fragmentClass = CourseInfoGrade.class;
                 setTitle("Statistics");
                 break;
             case R.id.nav_course_tmp:

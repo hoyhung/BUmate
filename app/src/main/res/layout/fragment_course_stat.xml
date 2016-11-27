@@ -15,15 +15,27 @@
         android:gravity="center_vertical"
         android:padding="3dip"
         android:textSize="20dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="43dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"/>
+    <Button
+        android:text="Grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:id="@+id/change_view_button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:elevation="3dp"
+        style="@style/Widget.AppCompat.Button" />
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/toolbar"
+        android:layout_marginTop="44dp"
         android:paddingTop="?attr/actionBarSize" />
     <!--TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
